@@ -18,7 +18,7 @@ export default function App() {
   const flatListRef = useRef();
 
   // ⚠️ Coloque aqui o link do seu backend Render
-  const API = "https://chat-backend-rfl9.onrender.com";
+  const API = "https://chat-backend-sqd5.onrender.com";
 
   // Buscar mensagens
   const buscarMensagens = async () => {
